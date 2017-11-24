@@ -7,6 +7,6 @@ printf("Hola Mundo!");
 
 for(int i = 0; i< 1440; i++){
   
-  printf("Dame %d Cervezas", i); 
+  printf("Dame %d Tintos de verano", i); 
   
 }
