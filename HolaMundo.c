@@ -7,6 +7,6 @@ printf("Hola Mundo!");
 
 for(int i = 0; i< 1440; i++){
   
-  printf("Dame  una Cerveza"); 
+  printf("Dame %d Cervezas", i); 
   
 }
